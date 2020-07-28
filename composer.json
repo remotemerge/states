@@ -1,0 +1,16 @@
+{
+  "name": "remotemerge/states",
+  "description": "List of countries and states in JSON format.",
+  "type": "library",
+  "require": {
+    "ext-json": "*"
+  },
+  "config": {
+    "discard-changes": true,
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
