@@ -1265,7 +1265,24 @@
     "cca2": "BH",
     "cca3": "BHR",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Capital Governorate"
+      },
+      {
+        "code": null,
+        "name": "Muharraq Governorate"
+      },
+      {
+        "code": null,
+        "name": "Northern Governorate"
+      },
+      {
+        "code": null,
+        "name": "Southern Governorate"
+      }
+    ]
   },
   {
     "id": 14,
