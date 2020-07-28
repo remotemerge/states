@@ -811,7 +811,316 @@
     "cca2": "AZ",
     "cca3": "AZE",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "ABS",
+        "name": "Absheron"
+      },
+      {
+        "code": "AGM",
+        "name": "Agdam"
+      },
+      {
+        "code": "AGS",
+        "name": "Agdash"
+      },
+      {
+        "code": "AGC",
+        "name": "Aghjabadi"
+      },
+      {
+        "code": "AGA",
+        "name": "Agstafa"
+      },
+      {
+        "code": "AGU",
+        "name": "Agsu"
+      },
+      {
+        "code": "AST",
+        "name": "Astara"
+      },
+      {
+        "code": "BAB",
+        "name": "Babek"
+      },
+      {
+        "code": "BA",
+        "name": "Baku"
+      },
+      {
+        "code": "BAL",
+        "name": "Balakan"
+      },
+      {
+        "code": "BAR",
+        "name": "Barda"
+      },
+      {
+        "code": "BEY",
+        "name": "Beylagan"
+      },
+      {
+        "code": "BIL",
+        "name": "Bilasuvar"
+      },
+      {
+        "code": "DAS",
+        "name": "Dashkasan"
+      },
+      {
+        "code": "FUZ",
+        "name": "Fuzuli"
+      },
+      {
+        "code": "GAD",
+        "name": "Gadabay"
+      },
+      {
+        "code": "GA",
+        "name": "Ganja"
+      },
+      {
+        "code": "QOB",
+        "name": "Gobustan"
+      },
+      {
+        "code": "GOR",
+        "name": "Goranboy"
+      },
+      {
+        "code": "GOY",
+        "name": "Goychay"
+      },
+      {
+        "code": "GYG",
+        "name": "Goygol"
+      },
+      {
+        "code": "HAC",
+        "name": "Hajigabul"
+      },
+      {
+        "code": "IMI",
+        "name": "Imishli"
+      },
+      {
+        "code": "ISM",
+        "name": "Ismailli"
+      },
+      {
+        "code": "CAB",
+        "name": "Jabrayil"
+      },
+      {
+        "code": "CAL",
+        "name": "Jalilabad"
+      },
+      {
+        "code": "CUL",
+        "name": "Julfa"
+      },
+      {
+        "code": "KAL",
+        "name": "Kalbajar"
+      },
+      {
+        "code": "KAN",
+        "name": "Kangarli"
+      },
+      {
+        "code": "XAC",
+        "name": "Khachmaz"
+      },
+      {
+        "code": "XIZ",
+        "name": "Khizi"
+      },
+      {
+        "code": "XCI",
+        "name": "Khojaly"
+      },
+      {
+        "code": "XVD",
+        "name": "Khojavend"
+      },
+      {
+        "code": "KUR",
+        "name": "Kurdamir"
+      },
+      {
+        "code": "LAC",
+        "name": "Lachin"
+      },
+      {
+        "code": "LA",
+        "name": "Lankaran"
+      },
+      {
+        "code": "LAN",
+        "name": "Lankaran"
+      },
+      {
+        "code": "LER",
+        "name": "Lerik"
+      },
+      {
+        "code": "MAS",
+        "name": "Masally"
+      },
+      {
+        "code": "MI",
+        "name": "Mingachevir"
+      },
+      {
+        "code": "NA",
+        "name": "Naftalan"
+      },
+      {
+        "code": "NV",
+        "name": "Nakhchivan"
+      },
+      {
+        "code": "NEF",
+        "name": "Neftchala"
+      },
+      {
+        "code": "OGU",
+        "name": "Oghuz"
+      },
+      {
+        "code": "ORD",
+        "name": "Ordubad"
+      },
+      {
+        "code": "QAX",
+        "name": "Qakh"
+      },
+      {
+        "code": "QAZ",
+        "name": "Qazakh"
+      },
+      {
+        "code": "QAB",
+        "name": "Qbala"
+      },
+      {
+        "code": "QBA",
+        "name": "Quba"
+      },
+      {
+        "code": "QBI",
+        "name": "Qubadlı"
+      },
+      {
+        "code": "QUS",
+        "name": "Qusar"
+      },
+      {
+        "code": "SAT",
+        "name": "Saatly"
+      },
+      {
+        "code": "SAB",
+        "name": "Sabirabad"
+      },
+      {
+        "code": "SAD",
+        "name": "Sadarak"
+      },
+      {
+        "code": "SAL",
+        "name": "Salyan"
+      },
+      {
+        "code": "SMX",
+        "name": "Samukh"
+      },
+      {
+        "code": "SBN",
+        "name": "Shabran"
+      },
+      {
+        "code": "SAH",
+        "name": "Shahbuz"
+      },
+      {
+        "code": "SA",
+        "name": "Shaki"
+      },
+      {
+        "code": "SAK",
+        "name": "Shaki"
+      },
+      {
+        "code": "SMI",
+        "name": "Shamakhi"
+      },
+      {
+        "code": "SKR",
+        "name": "Shamkir"
+      },
+      {
+        "code": "SAR",
+        "name": "Sharur"
+      },
+      {
+        "code": "SR",
+        "name": "Shirvan"
+      },
+      {
+        "code": "SUS",
+        "name": "Shusha"
+      },
+      {
+        "code": "SIY",
+        "name": "Siazan"
+      },
+      {
+        "code": "XA",
+        "name": "Stepanakert"
+      },
+      {
+        "code": "SM",
+        "name": "Sumqayıt"
+      },
+      {
+        "code": "TAR",
+        "name": "Tartar"
+      },
+      {
+        "code": "TOV",
+        "name": "Tovuz"
+      },
+      {
+        "code": "UCA",
+        "name": "Ujar"
+      },
+      {
+        "code": "YAR",
+        "name": "Yardymli"
+      },
+      {
+        "code": "YE",
+        "name": "Yevlakh"
+      },
+      {
+        "code": "YEV",
+        "name": "Yevlakh"
+      },
+      {
+        "code": "ZAN",
+        "name": "Zangilan"
+      },
+      {
+        "code": "ZAQ",
+        "name": "Zaqatala"
+      },
+      {
+        "code": "ZAR",
+        "name": "Zardab"
+      }
+    ]
   },
   {
     "id": 12,
