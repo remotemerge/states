@@ -2,6 +2,7 @@
   "name": "remotemerge/states",
   "description": "List of countries and states in JSON format.",
   "type": "library",
+  "license": "MIT",
   "require": {
     "ext-json": "*"
   },
