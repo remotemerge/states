@@ -408,7 +408,36 @@
     "cca2": "AD",
     "cca3": "AND",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Andorra la Vella"
+      },
+      {
+        "code": null,
+        "name": "Canillo"
+      },
+      {
+        "code": null,
+        "name": "Encamp"
+      },
+      {
+        "code": null,
+        "name": "Escaldes-Engordany"
+      },
+      {
+        "code": null,
+        "name": "La Massana"
+      },
+      {
+        "code": null,
+        "name": "Ordino"
+      },
+      {
+        "code": null,
+        "name": "Sant Julià de Lòria"
+      }
+    ]
   },
   {
     "id": 5,
