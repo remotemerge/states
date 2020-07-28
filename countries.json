@@ -1290,7 +1290,40 @@
     "cca2": "BD",
     "cca3": "BGD",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "A",
+        "name": "Barisal"
+      },
+      {
+        "code": "B",
+        "name": "Chittagong"
+      },
+      {
+        "code": "C",
+        "name": "Dhaka"
+      },
+      {
+        "code": "D",
+        "name": "Khulna"
+      },
+      {
+        "code": "H",
+        "name": "Mymensingh"
+      },
+      {
+        "code": "E",
+        "name": "Rajshahi"
+      },
+      {
+        "code": "F",
+        "name": "Rangpur"
+      },
+      {
+        "code": "G",
+        "name": "Sylhet"
+      }
+    ]
   },
   {
     "id": 15,
