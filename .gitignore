@@ -1,0 +1,40 @@
+### JetBrains template
+/.idea/
+
+### VisualStudioCode template
+/.vscode/
+
+### NetBeans template
+/nbproject/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+### Windows template
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+*.lnk
+
+### macOS template
+.DS_Store
+._*
+
+### Linux template
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+### editor files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+### Generated files
+*.cache
+*.log
