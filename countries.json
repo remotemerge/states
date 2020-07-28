@@ -1128,7 +1128,136 @@
     "cca2": "BS",
     "cca3": "BHS",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "AK",
+        "name": "Acklins"
+      },
+      {
+        "code": "BY",
+        "name": "Berry Islands"
+      },
+      {
+        "code": "BI",
+        "name": "Bimini"
+      },
+      {
+        "code": "BP",
+        "name": "Black Point"
+      },
+      {
+        "code": "CI",
+        "name": "Cat Island"
+      },
+      {
+        "code": "CO",
+        "name": "Central Abaco"
+      },
+      {
+        "code": "CS",
+        "name": "Central Andros"
+      },
+      {
+        "code": "CE",
+        "name": "Central Eleuthera"
+      },
+      {
+        "code": "FP",
+        "name": "City of Freeport"
+      },
+      {
+        "code": "CK",
+        "name": "Crooked Island and Long Cay"
+      },
+      {
+        "code": "EG",
+        "name": "East Grand Bahama"
+      },
+      {
+        "code": "EX",
+        "name": "Exuma"
+      },
+      {
+        "code": "GC",
+        "name": "Grand Cay"
+      },
+      {
+        "code": "HI",
+        "name": "Harbour Island"
+      },
+      {
+        "code": "HT",
+        "name": "Hope Town"
+      },
+      {
+        "code": "IN",
+        "name": "Inagua"
+      },
+      {
+        "code": "LI",
+        "name": "Long Island"
+      },
+      {
+        "code": "MC",
+        "name": "Mangrove Cay"
+      },
+      {
+        "code": "MG",
+        "name": "Mayaguana"
+      },
+      {
+        "code": "MI",
+        "name": "Moore's Island"
+      },
+      {
+        "code": "NP",
+        "name": "New Providence"
+      },
+      {
+        "code": "NO",
+        "name": "North Abaco"
+      },
+      {
+        "code": "NS",
+        "name": "North Andros"
+      },
+      {
+        "code": "NE",
+        "name": "North Eleuthera"
+      },
+      {
+        "code": "RI",
+        "name": "Ragged Island"
+      },
+      {
+        "code": "RC",
+        "name": "Rum Cay"
+      },
+      {
+        "code": "SS",
+        "name": "San Salvador"
+      },
+      {
+        "code": "SO",
+        "name": "South Abaco"
+      },
+      {
+        "code": "SA",
+        "name": "South Andros"
+      },
+      {
+        "code": "SE",
+        "name": "South Eleuthera"
+      },
+      {
+        "code": "SW",
+        "name": "Spanish Wells"
+      },
+      {
+        "code": "WG",
+        "name": "West Grand Bahama"
+      }
+    ]
   },
   {
     "id": 13,
