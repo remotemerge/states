@@ -1470,7 +1470,32 @@
     "cca2": "BZ",
     "cca3": "BLZ",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "BZ",
+        "name": "Belize"
+      },
+      {
+        "code": "CY",
+        "name": "Cayo"
+      },
+      {
+        "code": "CZL",
+        "name": "Corozal"
+      },
+      {
+        "code": "OW",
+        "name": "Orange Walk"
+      },
+      {
+        "code": "SC",
+        "name": "Stann Creek"
+      },
+      {
+        "code": "TOL",
+        "name": "Toledo"
+      }
+    ]
   },
   {
     "id": 19,
