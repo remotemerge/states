@@ -672,7 +672,52 @@
     "cca2": "AM",
     "cca3": "ARM",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "AG",
+        "name": "Aragatsotn"
+      },
+      {
+        "code": "AR",
+        "name": "Ararat"
+      },
+      {
+        "code": "AV",
+        "name": "Armavir"
+      },
+      {
+        "code": "GR",
+        "name": "Gegharkunik"
+      },
+      {
+        "code": "KT",
+        "name": "Kotayk"
+      },
+      {
+        "code": "LO",
+        "name": "Lori"
+      },
+      {
+        "code": "SH",
+        "name": "Shirak"
+      },
+      {
+        "code": "SU",
+        "name": "Syunik"
+      },
+      {
+        "code": "TV",
+        "name": "Tavush"
+      },
+      {
+        "code": "VD",
+        "name": "Vayots Dzor"
+      },
+      {
+        "code": "ER",
+        "name": "Yerevan"
+      }
+    ]
   },
   {
     "id": 9,
