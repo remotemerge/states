@@ -1331,7 +1331,52 @@
     "cca2": "BB",
     "cca3": "BRB",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Christ Church"
+      },
+      {
+        "code": null,
+        "name": "Saint Andrew"
+      },
+      {
+        "code": null,
+        "name": "Saint George"
+      },
+      {
+        "code": null,
+        "name": "Saint James"
+      },
+      {
+        "code": null,
+        "name": "Saint John"
+      },
+      {
+        "code": null,
+        "name": "Saint Joseph"
+      },
+      {
+        "code": null,
+        "name": "Saint Lucy"
+      },
+      {
+        "code": null,
+        "name": "Saint Michael"
+      },
+      {
+        "code": null,
+        "name": "Saint Peter"
+      },
+      {
+        "code": null,
+        "name": "Saint Philip"
+      },
+      {
+        "code": null,
+        "name": "Saint Thomas"
+      }
+    ]
   },
   {
     "id": 16,
