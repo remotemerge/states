@@ -1694,7 +1694,20 @@
     "cca2": "BA",
     "cca3": "BIH",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "BRC",
+        "name": "Brčko District"
+      },
+      {
+        "code": "BIH",
+        "name": "Federation of Bosnia and Herzegovina"
+      },
+      {
+        "code": "SRP",
+        "name": "Republika Srpska"
+      }
+    ]
   },
   {
     "id": 23,
