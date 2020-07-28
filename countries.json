@@ -1384,7 +1384,36 @@
     "cca2": "BY",
     "cca3": "BLR",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "BR",
+        "name": "Brest Region"
+      },
+      {
+        "code": "HM",
+        "name": "City of Minsk"
+      },
+      {
+        "code": "HO",
+        "name": "Gomel Region"
+      },
+      {
+        "code": "HR",
+        "name": "Grodno Region"
+      },
+      {
+        "code": "MI",
+        "name": "Minsk Region"
+      },
+      {
+        "code": "MA",
+        "name": "Mogilev Region"
+      },
+      {
+        "code": "VI",
+        "name": "Vitebsk Region"
+      }
+    ]
   },
   {
     "id": 17,
