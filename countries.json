@@ -5,7 +5,144 @@
     "cca2": "AF",
     "cca3": "AFG",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "BDS",
+        "name": "Badakhshan"
+      },
+      {
+        "code": "BDG",
+        "name": "Badghis"
+      },
+      {
+        "code": "BGL",
+        "name": "Baghlan"
+      },
+      {
+        "code": "BAL",
+        "name": "Balkh"
+      },
+      {
+        "code": "BAM",
+        "name": "Bamyan"
+      },
+      {
+        "code": "DAY",
+        "name": "Daykundi"
+      },
+      {
+        "code": "FRA",
+        "name": "Farah"
+      },
+      {
+        "code": "FYB",
+        "name": "Faryab"
+      },
+      {
+        "code": "GHA",
+        "name": "Ghazni"
+      },
+      {
+        "code": "GHO",
+        "name": "Ghōr"
+      },
+      {
+        "code": "HEL",
+        "name": "Helmand"
+      },
+      {
+        "code": "HER",
+        "name": "Herat"
+      },
+      {
+        "code": "JOW",
+        "name": "Jowzjan"
+      },
+      {
+        "code": "KAB",
+        "name": "Kabul"
+      },
+      {
+        "code": "KAN",
+        "name": "Kandahar"
+      },
+      {
+        "code": "KAP",
+        "name": "Kapisa"
+      },
+      {
+        "code": "KHO",
+        "name": "Khost"
+      },
+      {
+        "code": "KNR",
+        "name": "Kunar"
+      },
+      {
+        "code": "KDZ",
+        "name": "Kunduz"
+      },
+      {
+        "code": "LAG",
+        "name": "Laghman"
+      },
+      {
+        "code": "LOG",
+        "name": "Logar"
+      },
+      {
+        "code": "WAR",
+        "name": "Maidan Wardak"
+      },
+      {
+        "code": "NAN",
+        "name": "Nangarhar"
+      },
+      {
+        "code": "NIM",
+        "name": "Nimruz"
+      },
+      {
+        "code": "NUR",
+        "name": "Nuristan"
+      },
+      {
+        "code": "PIA",
+        "name": "Paktia"
+      },
+      {
+        "code": "PKA",
+        "name": "Paktika"
+      },
+      {
+        "code": "PAN",
+        "name": "Panjshir"
+      },
+      {
+        "code": "PAR",
+        "name": "Parwan"
+      },
+      {
+        "code": "SAM",
+        "name": "Samangan"
+      },
+      {
+        "code": "SAR",
+        "name": "Sar-e Pol"
+      },
+      {
+        "code": "TAK",
+        "name": "Takhar"
+      },
+      {
+        "code": "URU",
+        "name": "Urozgan"
+      },
+      {
+        "code": "ZAB",
+        "name": "Zabul"
+      }
+    ]
   },
   {
     "id": 2,
