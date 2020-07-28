@@ -526,7 +526,40 @@
     "cca2": "AG",
     "cca3": "ATG",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Barbuda"
+      },
+      {
+        "code": null,
+        "name": "Redonda"
+      },
+      {
+        "code": null,
+        "name": "Saint George"
+      },
+      {
+        "code": null,
+        "name": "Saint John"
+      },
+      {
+        "code": null,
+        "name": "Saint Mary"
+      },
+      {
+        "code": null,
+        "name": "Saint Paul"
+      },
+      {
+        "code": null,
+        "name": "Saint Peter"
+      },
+      {
+        "code": null,
+        "name": "Saint Philip"
+      }
+    ]
   },
   {
     "id": 7,
