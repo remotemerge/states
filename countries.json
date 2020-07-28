@@ -1560,7 +1560,88 @@
     "cca2": "BT",
     "cca3": "BTN",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "33",
+        "name": "Bumthang"
+      },
+      {
+        "code": "12",
+        "name": "Chhukha"
+      },
+      {
+        "code": "22",
+        "name": "Dagana"
+      },
+      {
+        "code": "GA",
+        "name": "Gasa"
+      },
+      {
+        "code": "13",
+        "name": "Haa"
+      },
+      {
+        "code": "44",
+        "name": "Lhuentse"
+      },
+      {
+        "code": "42",
+        "name": "Monggar"
+      },
+      {
+        "code": "11",
+        "name": "Paro"
+      },
+      {
+        "code": "43",
+        "name": "Pemagatshel"
+      },
+      {
+        "code": "23",
+        "name": "Punakha"
+      },
+      {
+        "code": "45",
+        "name": "Samdrup Jongkhar"
+      },
+      {
+        "code": "14",
+        "name": "Samtse"
+      },
+      {
+        "code": "31",
+        "name": "Sarpang"
+      },
+      {
+        "code": "15",
+        "name": "Thimphu"
+      },
+      {
+        "code": "TY",
+        "name": "Trashi Yangtse"
+      },
+      {
+        "code": "41",
+        "name": "Trashigang"
+      },
+      {
+        "code": "32",
+        "name": "Trongsa"
+      },
+      {
+        "code": "21",
+        "name": "Tsirang"
+      },
+      {
+        "code": "24",
+        "name": "Wangdue Phodrang"
+      },
+      {
+        "code": "34",
+        "name": "Zhemgang"
+      }
+    ]
   },
   {
     "id": 21,
