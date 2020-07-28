@@ -766,7 +766,44 @@
     "cca2": "AT",
     "cca3": "AUT",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Burgenland"
+      },
+      {
+        "code": null,
+        "name": "Carinthia"
+      },
+      {
+        "code": null,
+        "name": "Lower Austria"
+      },
+      {
+        "code": null,
+        "name": "Salzburg"
+      },
+      {
+        "code": null,
+        "name": "Styria"
+      },
+      {
+        "code": null,
+        "name": "Tyrol"
+      },
+      {
+        "code": null,
+        "name": "Upper Austria"
+      },
+      {
+        "code": null,
+        "name": "Vienna"
+      },
+      {
+        "code": null,
+        "name": "Vorarlberg"
+      }
+    ]
   },
   {
     "id": 11,
