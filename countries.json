@@ -1421,7 +1421,48 @@
     "cca2": "BE",
     "cca3": "BEL",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "VAN",
+        "name": "Antwerpen"
+      },
+      {
+        "code": "WBR",
+        "name": "Brabant Wallon"
+      },
+      {
+        "code": "WHT",
+        "name": "Hainaut"
+      },
+      {
+        "code": "VLI",
+        "name": "Limburg"
+      },
+      {
+        "code": "WLG",
+        "name": "Liège"
+      },
+      {
+        "code": "WLX",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "WNA",
+        "name": "Namur"
+      },
+      {
+        "code": "VOV",
+        "name": "Oost-Vlaanderen"
+      },
+      {
+        "code": "VBR",
+        "name": "Vlaams-Brabant"
+      },
+      {
+        "code": "VWV",
+        "name": "West-Vlaanderen"
+      }
+    ]
   },
   {
     "id": 18,
