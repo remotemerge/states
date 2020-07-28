@@ -957,7 +957,36 @@
     "cca2": "NP",
     "cca3": "NPL",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "P1",
+        "name": "Province 1"
+      },
+      {
+        "code": "P2",
+        "name": "Province 2"
+      },
+      {
+        "code": "P3",
+        "name": "Bagmati"
+      },
+      {
+        "code": "P4",
+        "name": "Gandaki"
+      },
+      {
+        "code": "P5",
+        "name": "Province 5"
+      },
+      {
+        "code": "P6",
+        "name": "Karnali"
+      },
+      {
+        "code": "P7",
+        "name": "Sudurpashchim"
+      }
+    ]
   },
   {
     "id": 121,
