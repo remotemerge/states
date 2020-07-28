@@ -150,7 +150,56 @@
     "cca2": "AL",
     "cca3": "ALB",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Berat"
+      },
+      {
+        "code": null,
+        "name": "Dibër"
+      },
+      {
+        "code": null,
+        "name": "Durrës"
+      },
+      {
+        "code": null,
+        "name": "Elbasan"
+      },
+      {
+        "code": null,
+        "name": "Fier"
+      },
+      {
+        "code": null,
+        "name": "Gjirokastër"
+      },
+      {
+        "code": null,
+        "name": "Korçë"
+      },
+      {
+        "code": null,
+        "name": "Kukës"
+      },
+      {
+        "code": null,
+        "name": "Lezhë"
+      },
+      {
+        "code": null,
+        "name": "Shkodër"
+      },
+      {
+        "code": null,
+        "name": "Tiranë"
+      },
+      {
+        "code": null,
+        "name": "Vlorë"
+      }
+    ]
   },
   {
     "id": 3,
