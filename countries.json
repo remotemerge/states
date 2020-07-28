@@ -207,7 +207,200 @@
     "cca2": "DZ",
     "cca3": "DZA",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": null,
+        "name": "Adrar"
+      },
+      {
+        "code": null,
+        "name": "Alger"
+      },
+      {
+        "code": null,
+        "name": "Annaba"
+      },
+      {
+        "code": null,
+        "name": "Aïn Defla"
+      },
+      {
+        "code": null,
+        "name": "Aïn Témouchent"
+      },
+      {
+        "code": null,
+        "name": "Batna"
+      },
+      {
+        "code": null,
+        "name": "Biskra"
+      },
+      {
+        "code": null,
+        "name": "Blida"
+      },
+      {
+        "code": null,
+        "name": "Bordj Bou Arréridj"
+      },
+      {
+        "code": null,
+        "name": "Bouira"
+      },
+      {
+        "code": null,
+        "name": "Boumerdès"
+      },
+      {
+        "code": null,
+        "name": "Béchar"
+      },
+      {
+        "code": null,
+        "name": "Béjaïa"
+      },
+      {
+        "code": null,
+        "name": "Chlef"
+      },
+      {
+        "code": null,
+        "name": "Constantine"
+      },
+      {
+        "code": null,
+        "name": "Djelfa"
+      },
+      {
+        "code": null,
+        "name": "El Bayadh"
+      },
+      {
+        "code": null,
+        "name": "El Oued"
+      },
+      {
+        "code": null,
+        "name": "El Tarf"
+      },
+      {
+        "code": null,
+        "name": "Ghardaïa"
+      },
+      {
+        "code": null,
+        "name": "Guelma"
+      },
+      {
+        "code": null,
+        "name": "Illizi"
+      },
+      {
+        "code": null,
+        "name": "Jijel"
+      },
+      {
+        "code": null,
+        "name": "Khenchela"
+      },
+      {
+        "code": null,
+        "name": "Laghouat"
+      },
+      {
+        "code": null,
+        "name": "M'sila"
+      },
+      {
+        "code": null,
+        "name": "Mascara"
+      },
+      {
+        "code": null,
+        "name": "Mila"
+      },
+      {
+        "code": null,
+        "name": "Mostaganem"
+      },
+      {
+        "code": null,
+        "name": "Médéa"
+      },
+      {
+        "code": null,
+        "name": "Naama"
+      },
+      {
+        "code": null,
+        "name": "Oran"
+      },
+      {
+        "code": null,
+        "name": "Ouargla"
+      },
+      {
+        "code": null,
+        "name": "Oum el Bouaghi"
+      },
+      {
+        "code": null,
+        "name": "Relizane"
+      },
+      {
+        "code": null,
+        "name": "Saïda"
+      },
+      {
+        "code": null,
+        "name": "Sidi Bel Abbès"
+      },
+      {
+        "code": null,
+        "name": "Skikda"
+      },
+      {
+        "code": null,
+        "name": "Souk Ahras"
+      },
+      {
+        "code": null,
+        "name": "Sétif"
+      },
+      {
+        "code": null,
+        "name": "Tamanrasset"
+      },
+      {
+        "code": null,
+        "name": "Tiaret"
+      },
+      {
+        "code": null,
+        "name": "Tindouf"
+      },
+      {
+        "code": null,
+        "name": "Tipaza"
+      },
+      {
+        "code": null,
+        "name": "Tissemsilt"
+      },
+      {
+        "code": null,
+        "name": "Tizi Ouzou"
+      },
+      {
+        "code": null,
+        "name": "Tlemcen"
+      },
+      {
+        "code": null,
+        "name": "Tébessa"
+      }
+    ]
   },
   {
     "id": 4,
