@@ -1715,7 +1715,72 @@
     "cca2": "BW",
     "cca3": "BWA",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "CE",
+        "name": "Central"
+      },
+      {
+        "code": "CH",
+        "name": "Chobe"
+      },
+      {
+        "code": "FR",
+        "name": "Francistown"
+      },
+      {
+        "code": "GA",
+        "name": "Gaborone"
+      },
+      {
+        "code": "GH",
+        "name": "Ghanzi"
+      },
+      {
+        "code": "JW",
+        "name": "Jwaneng"
+      },
+      {
+        "code": "KG",
+        "name": "Kgalagadi"
+      },
+      {
+        "code": "KL",
+        "name": "Kgatleng"
+      },
+      {
+        "code": "KW",
+        "name": "Kweneng"
+      },
+      {
+        "code": "LO",
+        "name": "Lobatse"
+      },
+      {
+        "code": "NE",
+        "name": "North East"
+      },
+      {
+        "code": "NW",
+        "name": "North West"
+      },
+      {
+        "code": "SP",
+        "name": "Selibe Phikwe"
+      },
+      {
+        "code": "SE",
+        "name": "South East"
+      },
+      {
+        "code": "SO",
+        "name": "Southern"
+      },
+      {
+        "code": "ST",
+        "name": "Sowa Town"
+      }
+    ]
   },
   {
     "id": 24,
