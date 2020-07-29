@@ -1930,7 +1930,120 @@
     "cca2": "BG",
     "cca3": "BGR",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "01",
+        "name": "Blagoevgrad"
+      },
+      {
+        "code": "02",
+        "name": "Burgas"
+      },
+      {
+        "code": "08",
+        "name": "Dobrich"
+      },
+      {
+        "code": "07",
+        "name": "Gabrovo"
+      },
+      {
+        "code": "26",
+        "name": "Haskovo"
+      },
+      {
+        "code": "09",
+        "name": "Kardzhali"
+      },
+      {
+        "code": "10",
+        "name": "Kyustendil"
+      },
+      {
+        "code": "11",
+        "name": "Lovech"
+      },
+      {
+        "code": "12",
+        "name": "Montana"
+      },
+      {
+        "code": "13",
+        "name": "Pazardzhik"
+      },
+      {
+        "code": "14",
+        "name": "Pernik"
+      },
+      {
+        "code": "15",
+        "name": "Pleven"
+      },
+      {
+        "code": "16",
+        "name": "Plovdiv"
+      },
+      {
+        "code": "17",
+        "name": "Razgrad"
+      },
+      {
+        "code": "18",
+        "name": "Ruse"
+      },
+      {
+        "code": "27",
+        "name": "Shumen"
+      },
+      {
+        "code": "19",
+        "name": "Silistra"
+      },
+      {
+        "code": "20",
+        "name": "Sliven"
+      },
+      {
+        "code": "21",
+        "name": "Smolyan"
+      },
+      {
+        "code": "23",
+        "name": "Sofia"
+      },
+      {
+        "code": "22",
+        "name": "Sofia (Stolitsa)"
+      },
+      {
+        "code": "24",
+        "name": "Stara Zagora"
+      },
+      {
+        "code": "25",
+        "name": "Targovishte"
+      },
+      {
+        "code": "03",
+        "name": "Varna"
+      },
+      {
+        "code": "04",
+        "name": "Veliko Tarnovo"
+      },
+      {
+        "code": "05",
+        "name": "Vidin"
+      },
+      {
+        "code": "06",
+        "name": "Vratsa"
+      },
+      {
+        "code": "28",
+        "name": "Yambol"
+      }
+    ]
   },
   {
     "id": 27,
