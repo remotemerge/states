@@ -1905,7 +1905,24 @@
     "cca2": "BN",
     "cca3": "BRN",
     "independent": true,
-    "states": null
+    "states": [
+      {
+        "code": "BE",
+        "name": "Belait"
+      },
+      {
+        "code": "BM",
+        "name": "Brunei-Muara"
+      },
+      {
+        "code": "TE",
+        "name": "Temburong"
+      },
+      {
+        "code": "TU",
+        "name": "Tutong"
+      }
+    ]
   },
   {
     "id": 26,
